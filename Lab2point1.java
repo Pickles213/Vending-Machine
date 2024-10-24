@@ -6,7 +6,7 @@ public class Lab2point1 {
         Scanner sc = new Scanner(System.in);
         
         // Item prices
-        int soda = 0;
+        int soda = 25;
         int chips = 15;
         int chocolate = 20;
 
